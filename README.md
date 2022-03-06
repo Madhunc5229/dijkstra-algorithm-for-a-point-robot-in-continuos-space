@@ -1,15 +1,15 @@
 # dijkstra-algorithm-for-a-point-robot-in-continuos-space
 
-## Instructions to run.
+## Instructions to run:  
 
-clone the files from GitHub by typing:
+clone the files from GitHub by typing:  
 git clone https://github.com/Madhunc5229/dijkstra-algorithm-for-a-point-robot-in-continuos-space
 
-cd dijkstra-algorithm-for-a-point-robot-in-continuos-space
+cd dijkstra-algorithm-for-a-point-robot-in-continuos-space  
 
-python SourceCode.py
+python SourceCode.py  
 
-## About the program and inputs:
+## About the program and inputs:  
 
 When you run the program, it will ask for four outputs that is x cordinate of start point, y cordinate of start point, x cordinate of goal point and y cordinate of goal point. 
 
