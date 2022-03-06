@@ -19,7 +19,7 @@ After the goal is reached, the program displays the vizualization of the explori
 
 PLEASE PRESS Q AFTER SEEING THE VIDEO AND IMAGE, this will record the video of vizualization and store it as "Dijkstra.mp4" in the working directory. 
 
-## ayout of map with obstacles:  
+## Layout of map with obstacles:  
 <img width="474" alt="Layout" src="https://user-images.githubusercontent.com/61328094/156905504-5f135ac0-fc4c-4d4f-a61e-6f75a2371bdd.png">  
 
 ## Layout of map with obstacles generated using mathematical equations:  
