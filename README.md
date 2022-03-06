@@ -19,13 +19,15 @@ After the goal is reached, the program displays the vizualization of the explori
 
 PLEASE PRESS Q AFTER SEEING THE VIDEO AND IMAGE, this will record the video of vizualization and store it as "Dijkstra.mp4" in the working directory. 
 
-## Layout of map with obstacles:  
+## Layout of map with obstacles:   
 <img width="474" alt="Layout" src="https://user-images.githubusercontent.com/61328094/156905504-5f135ac0-fc4c-4d4f-a61e-6f75a2371bdd.png">  
 
 ## Layout of map with obstacles generated using mathematical equations:  
+### Cyan color are the obstacles, red color is the clearance for the point in the layout.  
 ![Map](https://user-images.githubusercontent.com/61328094/156905495-8cd9021d-f30b-4b24-a61c-8d0004800b08.png)  
 
 
 ## Output of the program for corner to corner path:  
+### White color represents the points explored to reach the goal point. Red line represents the shortest path between the two points. 
 ![CornerToCorner](https://user-images.githubusercontent.com/61328094/156905509-12293a11-704e-4ac8-9466-8bb4ef56346c.png)
 
