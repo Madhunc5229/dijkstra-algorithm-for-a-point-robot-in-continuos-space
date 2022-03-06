@@ -6,6 +6,8 @@ Numpy
 Matplotlib  
 cv2  
 collections  
+cmath  
+queue  
 
 ## Instructions to run:  
 
