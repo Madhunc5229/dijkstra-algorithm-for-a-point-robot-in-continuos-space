@@ -18,3 +18,15 @@ If the points are not valid, it will ask again (please give points which are not
 After the goal is reached, the program displays the vizualization of the exploring the points and when the goal is reached it shows the backtracked image in a new window. 
 
 PLEASE PRESS Q AFTER SEEING THE VIDEO AND IMAGE, this will record the video of vizualization and store it as "Dijkstra.mp4" in the working directory. 
+
+##Layout of map with obstacles
+
+<img width="474" alt="Layout" src="https://user-images.githubusercontent.com/61328094/156905504-5f135ac0-fc4c-4d4f-a61e-6f75a2371bdd.png">
+
+##Layout of map with obstacles generated using mathematical equations:
+![Map](https://user-images.githubusercontent.com/61328094/156905495-8cd9021d-f30b-4b24-a61c-8d0004800b08.png)
+
+
+##Output of the program for corner to corner path:
+![CornerToCorner](https://user-images.githubusercontent.com/61328094/156905509-12293a11-704e-4ac8-9466-8bb4ef56346c.png)
+
