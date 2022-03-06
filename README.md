@@ -1,5 +1,12 @@
 # dijkstra-algorithm-for-a-point-robot-in-continuos-space
 
+## Modules used:  
+
+Numpy
+Matplotlib
+cv2
+collections
+
 ## Instructions to run:  
 
 clone the files from GitHub by typing:  
