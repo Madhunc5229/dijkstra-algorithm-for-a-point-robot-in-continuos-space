@@ -24,7 +24,7 @@ PLEASE PRESS Q AFTER SEEING THE VIDEO AND IMAGE, this will record the video of v
 <img width="474" alt="Layout" src="https://user-images.githubusercontent.com/61328094/156905504-5f135ac0-fc4c-4d4f-a61e-6f75a2371bdd.png">
 
 ##Layout of map with obstacles generated using mathematical equations:
-![Map](https://user-images.githubusercontent.com/61328094/156905495-8cd9021d-f30b-4b24-a61c-8d0004800b08.png)
+![Map](https://user-images.githubusercontent.com/61328094/156905495-8cd9021d-f30b-4b24-a61c-8d0004800b08.png)/n
 
 
 ##Output of the program for corner to corner path:
