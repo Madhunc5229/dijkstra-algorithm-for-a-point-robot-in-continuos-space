@@ -2,10 +2,10 @@
 
 ## Modules used:  
 
-Numpy
-Matplotlib
-cv2
-collections
+Numpy  
+Matplotlib  
+cv2  
+collections  
 
 ## Instructions to run:  
 
