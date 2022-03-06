@@ -3,7 +3,7 @@
 ## Instructions to run:  
 
 clone the files from GitHub by typing:  
-''git clone https://github.com/Madhunc5229/dijkstra-algorithm-for-a-point-robot-in-continuos-space''
+`git clone https://github.com/Madhunc5229/dijkstra-algorithm-for-a-point-robot-in-continuos-space`
 
 '''cd dijkstra-algorithm-for-a-point-robot-in-continuos-space'''  
 
